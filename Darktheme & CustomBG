@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Surviv.io - Dark Theme & Custom BG
+// @name         Surviv.io - Dark Theme & Custom BG (16k resolution)
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @icon         https://media.discordapp.net/attachments/828306103448109097/871941998393831454/svgviewer-png-output_1.png
 // @description  The original script was not owned by me, i just remake it for 2021. Remake this script from https://github.com/EPIC-afk/Customs-Map-survivio
 // @author       Samer Kizi#8293 and Spring rolls#9901
@@ -146,7 +146,7 @@ bg.forEach(function (item) {
         item.addEventListener('click', function () {
 
             if (item.className == "bg classic") {
-                background.style = "filter:brightness(100%);background-image:url('https://media.discordapp.net/attachments/882591502574968863/884476184656764968/main_splash_rivers.png?width=1920&height=1080');";
+                background.style = "filter:brightness(100%);background-image:url('https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_UserMods/background/splash_river_16k.png');";
                 removeBorder();
                 item.className += " active";
             }
@@ -205,7 +205,7 @@ document.getElementById("sticky-footer").remove(); // ad
 }
 
 else{
-document.getElementById("background").style = "filter:brightness(100%);background-image:url(https://media.discordapp.net/attachments/882591502574968863/884625002396266496/Main_splash_River.png?width=1920&height=1080);";
+document.getElementById("background").style = "filter:brightness(100%);background-image:url(https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_UserMods/background/splash_river_8k.png);";
 document.getElementById("start-menu").style = "display:none;";
 document.getElementById("free-gp-offer").style = "display:none;opacity:0;";
 document.getElementById("missions-name").style = "background-image:none";
