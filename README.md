@@ -4,7 +4,7 @@
 
 This is a Surviv.io mod loaded as a User script. It was originally developed by [Samer Kizi](https://github.com/Samer-Kizi)
 
-Attention: This project is for educational purposes only, do not install if you do not understand what you are doing.
+Attention: This project is for entertainment only, do not install if you do not understand what you are doing.
 
 [Surviv.io privacy policy](https://surviv.io/privacy.html)
 
