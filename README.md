@@ -12,5 +12,5 @@ Attention: This project is for entertainment only, do not install if you do not 
 
 1. Add [Tampermonkey](https://www.tampermonkey.net/) to your browser. 
 2. Install [the script](https://raw.githubusercontent.com/iBLiSSIN/Surviv.io_Darktheme/main/Darktheme%20%26%20CustomBG%20(16k%20resolution)). 
-3. In tampermonkey UI (will show when you press install), click on 'Install'. *Make sure you have reloaded the page.*
+3. In tampermonkey UI (will show when you press install), click on `Install`. *Make sure you have reloaded the page.*
 4. Open [surviv.io](http://surviv.io).
