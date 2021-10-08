@@ -10,9 +10,7 @@ Attention: This project is for educational purposes only, do not install if you 
 
 ## 🔨 Installation
 
-1. Download this repo as a ZIP file. 
-2. Extract the ZIP file you just downloaded. 
-3. Go to `chrome://extensions` in your browser. *Make sure you have Developer Mode activated.*
-4. Click "Load Unpacked" and select the folder that you extracted (called `survivio-plus-master`)
-5. Read the [setup instructions](https://pastebin.com/raw/Y8bsbCcF).
-5. Open [surviv.io](http://surviv.io).
+1. Add [Tampermonkey](https://www.tampermonkey.net/) to your browser. 
+2. Install [the script](https://raw.githubusercontent.com/iBLiSSIN/Surviv.io_Darktheme/main/Darktheme%20%26%20CustomBG%20(16k%20resolution)). 
+3. In tampermonkey UI (will show when you press install), click on 'Install'. *Make sure you have reloaded the page.*
+4. Open [surviv.io](http://surviv.io).
