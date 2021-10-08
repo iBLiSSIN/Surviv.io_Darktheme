@@ -2,13 +2,7 @@
 
 # Welcome to Surviv.io Custom Background! 😃
 
-This is a Surviv.io mod loaded as a User script. It was originally developed by [Samer Kizi](https://github.com/Samer-Kizi), transferred to [Kalaborative](https://github.com/Kalaborative) but since both have been away, I have decided to take ownership of the development of the code. 
-
-It works by modifying the JS files sent from the server to the client, and adds scripts to enhance the user experience. 
-
-If you like this project, and want it to last, please consider supporting. 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRT8N23GLN4LL&source=url)
+This is a Surviv.io mod loaded as a User script. It was originally developed by [Samer Kizi](https://github.com/Samer-Kizi)
 
 Attention: This project is for educational purposes only, do not install if you do not understand what you are doing.
 
