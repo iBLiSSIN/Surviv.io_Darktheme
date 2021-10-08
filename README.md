@@ -2,7 +2,7 @@
 
 # Welcome to Surviv.io Custom Background! 😃
 
-This is a Surviv.io mod loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), transferred to [Kalaborative](https://github.com/Kalaborative) but since both have been away, I have decided to take ownership of the development of the code. 
+This is a Surviv.io mod loaded as a User script. It was originally developed by [Samer Kizi](https://github.com/Samer-Kizi), transferred to [Kalaborative](https://github.com/Kalaborative) but since both have been away, I have decided to take ownership of the development of the code. 
 
 It works by modifying the JS files sent from the server to the client, and adds scripts to enhance the user experience. 
 
