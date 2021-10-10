@@ -88,10 +88,10 @@ left.innerHTML = `<div class="frog">
 <div class="maps">
 
     <div class="bg classic">
-        <img src="https://github.com/Samer-Kizi/Surviv.io_UserMods/blob/custombg.png/crate-01.png?raw=true" alt="" class="map-img" style="width: 100px;height: 100px;">
+        <img src="https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_Darktheme/icon/crate-01.png" alt="" class="map-img" style="width: 100px;height: 100px;">
     </div>
     <div class="bg cobalt">
-        <img src="https://github.com/Samer-Kizi/Surviv.io_UserMods/blob/custombg.png/class-shell-03a.png?raw=true" alt="" class="map-img" style="width: 100px;height: 100px;">
+        <img src="https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_Darktheme/icon/class-shell-03a.png" alt="" class="map-img" style="width: 100px;height: 100px;">
     </div>
     <div class="bg desert">
         <img src="https://github.com/Samer-Kizi/Surviv.io_UserMods/blob/custombg.png/crate-18.png?raw=true" alt="" class="map-img" style="width: 100px;height: 100px;">
