@@ -94,22 +94,22 @@ left.innerHTML = `<div class="frog">
         <img src="https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_Darktheme/icon/class-shell-03a.png" alt="" class="map-img" style="width: 100px;height: 100px;">
     </div>
     <div class="bg desert">
-        <img src="https://github.com/Samer-Kizi/Surviv.io_UserMods/blob/custombg.png/crate-18.png?raw=true" alt="" class="map-img" style="width: 100px;height: 100px;">
+        <img src="https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_Darktheme/icon/crate-18.png" alt="" class="map-img" style="width: 100px;height: 100px;">
     </div>
     <div class="bg halloween">
-        <img src="https://github.com/Samer-Kizi/Surviv.io_UserMods/blob/custombg.png/pumpkin-02.png?raw=true" alt="" class="map-img" style="width: 100px;height: 100px;">
+        <img src="https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_Darktheme/icon/pumpkin-02.png" alt="" class="map-img" style="width: 100px;height: 100px;">
     </div>
     <div class="bg faction">
-        <img src="https://github.com/Samer-Kizi/Surviv.io_UserMods/blob/custombg.png/airdrop-03.png?raw=true" alt="" class="map-img" style="width: 100px;height: 100px;">
+        <img src="https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_Darktheme/icon/airdrop-03.png" alt="" class="map-img" style="width: 100px;height: 100px;">
     </div>
     <div class="bg savannah">
-        <img src="https://github.com/Samer-Kizi/Surviv.io_UserMods/blob/custombg.png/crate-21.png?raw=true" alt="" class="map-img" style="width: 100px;height: 100px;">
+        <img src="https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_Darktheme/icon/crate-21.png" alt="" class="map-img" style="width: 100px;height: 100px;">
     </div>
     <div class="bg spring">
-        <img src="https://github.com/Samer-Kizi/Surviv.io_UserMods/blob/custombg.png/bush-07sp.png?raw=true" alt="" class="map-img" style="width: 100px;height: 100px;">
+        <img src="https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_Darktheme/icon/bush-07sp.png" alt="" class="map-img" style="width: 100px;height: 100px;">
     </div>
     <div class="bg winter">
-        <img src="https://github.com/Samer-Kizi/Surviv.io_UserMods/blob/custombg.png/crate-02a.png?raw=true" alt="" class="map-img" style="width: 100px;height: 100px;">
+        <img src="https://raw.githubusercontent.com/Samer-Kizi/Surviv.io_Darktheme/icon/crate-02a.png" alt="" class="map-img" style="width: 100px;height: 100px;">
     </div>
     </div>
 </div>
